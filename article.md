@@ -121,6 +121,7 @@ Here's how it renders:
 While I prefer my own hand-written version, I'm pretty impressed with the result — it's one thing to have learned when to add a tie or an accent; or when there's a couple of notes close to each other at the same time, where to put the dots, slurs, stems etc. - but for a computer program to deduct all that information and render something that any music-reading musician can just play, is pretty remarkable.
 
 
+I've set up a [GitHub repository](https://github.com/greystate/ysod-driven-composition/) with all the files for this, so take a look if you like.
 
 [^1]: A *Yellow Screen Of Death* is the .NET Framework's error screen, telling you that a runtime error has ocurred. _We hatesss them!_
 
