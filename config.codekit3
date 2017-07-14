@@ -33,6 +33,12 @@
 		"rFN": 0,
 		"uCM": 0
 		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
 	"\/index.kit": {
 		"ft": 2048,
 		"oA": 0,
@@ -181,7 +187,7 @@
 	"creationDate": 521676924,
 	"displayValue": "YSOD",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "meme-krieger"
+	"iconImageName": "\/ysod-inverse-explained.png"
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -2297,7 +2303,8 @@
 			"flagValue": 80
 			}
 		},
-	"uglifyReservedNamesString": "$"
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": "public"
 	},
 "settingsFileVersion": "3"
 }
